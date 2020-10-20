@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am still a student but I try to surpass myself every day. My motto: "beyond limits - Plus ultra". I love web development, video game development and 3D modeling. And my favorite language is Javascript. I use it a bit in everything I do: front-end, back-end, algorithm.
 <!--
 **Online13/Online13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
