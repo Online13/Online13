@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-I am still a student but I try to surpass myself every day. My motto: "beyond limits - Plus ultra". I love web development, video game development and 3D modeling. And my favorite language is Javascript. I use it a bit in everything I do: front-end, back-end, algorithm.
+🤵 Exploring interface design and creation, when I was studying
+mathematics in my first year, was an exceptional adventure, and I
+haven't stopped since.💡 In parallel, I've been lucky enough to work on
+projects where I've gained experience with **React**, **Node Js**, **Python**, and **Typescript**.
+
+🎓 Now I'm preparing my final year intership at the LIMA Laboratory. In
+my spare time, I work on personal project and take part in hackathons.
+
+🏓 My hobbies are drawing, playing chess, playing video games, and
+manga.
 <!--
 **Online13/Online13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
