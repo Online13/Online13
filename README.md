@@ -1,26 +1,5 @@
-### Hi there 👋
+I am an independent developer specializing in software engineering and artificial intelligence, with a focus on natural language processing (NLP).
 
-🤵 Exploring interface design and creation, when I was studying
-mathematics in my first year, was an exceptional adventure, and I
-haven't stopped since.💡 In parallel, I've been lucky enough to work on
-projects where I've gained experience with **React**, **Node Js**, **Python**, and **Typescript**.
+With a background in mathematics, I developed a passion for creating impactful solutions. Today, I work across web development, mobile development, UI/UX design, and artificial intelligence, delivering tailored digital experiences and innovative tools.
 
-🎓 Now I'm preparing my final year intership at the LIMA Laboratory. In
-my spare time, I work on personal project and take part in hackathons.
-
-🏓 My hobbies are drawing, playing chess, playing video games, and
-manga.
-<!--
-**Online13/Online13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting—feel free to reach out! I’m always open to collaborating and exchanging ideas.
